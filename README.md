@@ -45,3 +45,8 @@
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktll1nn" alt=""/> 
 </div>
+
+### 🧮 Статистика активности:
+<div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ktll1nn&theme=tokyo-night" alt=""/>
+</div>
