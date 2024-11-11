@@ -22,7 +22,7 @@
 - ⚛️ факт№2 про катю свиридову
 - 🤙 факт№3 про катю свиридову
 
- ### 🫰языки и инструменты:
+ ### 🫰Языки и инструменты:
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
@@ -36,5 +36,5 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original-wordmark.svg" width="40" height="40"/>
 
-
+### 🏆Достижения:
 
