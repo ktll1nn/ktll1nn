@@ -12,10 +12,6 @@
   <img src="https://komarev.com/ghpvc/?username=ktll1nn&style=flat-square&color=blue" alt=""/>
 </div>
 
-<div id="heythere" align="center">
-<h1> Профиль на GITHUB </h1>
-</div>
-
 
  ### 🫰Языки и инструменты:
 <div>
@@ -30,18 +26,3 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original-wordmark.svg" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original-wordmark.svg" width="40" height="40"/>
-
-### 🏆Достижения:
-<div>
-  <img src="https://github-profile-trophy.vercel.app/?username=ktll1nn" alt=""/>
-</div>
-
-### 🔡 Наиболее используемые языки: 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktll1nn" alt=""/> 
-</div>
-
-### 🧮 Статистика активности:
-<div>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ktll1nn&theme=tokyo-night" alt=""/>
-</div>
